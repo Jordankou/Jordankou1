@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+.link-header{
+font-size:30px;
+padding-left:300px;
+display: block;
+}
+.link-header:hover{
+background-image:linear-gradient(to right,blue,green,blue);
+padding-right: 300px;
+color:aliceblue;
+box-shadow:5px 5px 5px 0px yellow;
+transform:translateX(50px);
+transition:3s linear;
+}
+
+.link-nav{
+padding-left:50px;
+}
+.link-nav:visited{
+color:red;
+}
+h1{
+color:lightskyblue;
+
+}
